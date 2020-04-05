@@ -11,7 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Domain Path: /languages/
 Text Domain: woocommerce-product-carousel-slider
 WC requires at least: 3.0
-WC tested up to: 3.5.1
+WC tested up to: 4.0
 */
 
 /**

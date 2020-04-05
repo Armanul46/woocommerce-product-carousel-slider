@@ -1,0 +1,430 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"POT-Creation-Date: 2020-04-06 01:40+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpcs-custom-post.php:32
+msgid "Add New Carousel Slider"
+msgstr ""
+
+#: wpcs-custom-post.php:33
+msgid "New Carousel Slider"
+msgstr ""
+
+#: wpcs-custom-post.php:34
+msgid "Edit Carousel Slider"
+msgstr ""
+
+#: wpcs-custom-post.php:35
+msgid "View Carousel Slider"
+msgstr ""
+
+#: wpcs-custom-post.php:36
+msgid "Search Carousel Slider"
+msgstr ""
+
+#: wpcs-custom-post.php:37
+msgid "Parent Carousel Sliders:"
+msgstr ""
+
+#: wpcs-custom-post.php:38
+msgid "No carousel slider found."
+msgstr ""
+
+#: wpcs-custom-post.php:39
+msgid "No carousel slider found in Trash."
+msgstr ""
+
+#: wpcs-custom-post.php:69
+msgid "Carousel Name"
+msgstr ""
+
+#: wpcs-custom-post.php:70
+msgid "Carousel Shortcode"
+msgstr ""
+
+#: wpcs-custom-post.php:72
+msgid "Created at"
+msgstr ""
+
+#: wpcs-custom-post.php:105
+msgid "Settings & Shortcode Generator"
+msgstr ""
+
+#: wpcs-custom-post.php:133
+msgid "General Settings"
+msgstr ""
+
+#: wpcs-custom-post.php:134
+msgid "Slider Settings"
+msgstr ""
+
+#: wpcs-custom-post.php:135
+msgid "Style Settings"
+msgstr ""
+
+#: wpcs-custom-post.php:147
+msgid "Carousel Title"
+msgstr ""
+
+#: wpcs-custom-post.php:150
+msgid "Latest Product"
+msgstr ""
+
+#: wpcs-custom-post.php:151
+msgid "Carousel slider title"
+msgstr ""
+
+#: wpcs-custom-post.php:158
+msgid "Display Full Title"
+msgstr ""
+
+#: wpcs-custom-post.php:164 wpcs-custom-post.php:184
+#: wpcs-custom-post.php:206 wpcs-custom-post.php:226
+#: wpcs-custom-post.php:245 wpcs-custom-post.php:260
+#: wpcs-custom-post.php:282 wpcs-custom-post.php:306
+#: wpcs-custom-post.php:366 wpcs-custom-post.php:418
+#: wpcs-custom-post.php:439 wpcs-custom-post.php:507
+msgid "Yes"
+msgstr ""
+
+#: wpcs-custom-post.php:168 wpcs-custom-post.php:188
+#: wpcs-custom-post.php:211 wpcs-custom-post.php:230
+#: wpcs-custom-post.php:246 wpcs-custom-post.php:265
+#: wpcs-custom-post.php:288 wpcs-custom-post.php:312
+#: wpcs-custom-post.php:367 wpcs-custom-post.php:424
+#: wpcs-custom-post.php:440 wpcs-custom-post.php:506
+msgid "No"
+msgstr ""
+
+#: wpcs-custom-post.php:171
+msgid "Display Full Title or not"
+msgstr ""
+
+#: wpcs-custom-post.php:178
+msgid "Display Header"
+msgstr ""
+
+#: wpcs-custom-post.php:191
+msgid "Display carousel slider header or not"
+msgstr ""
+
+#: wpcs-custom-post.php:198
+msgid "Repeat Product"
+msgstr ""
+
+#: wpcs-custom-post.php:220
+msgid "Display Navigation Arrows"
+msgstr ""
+
+#: wpcs-custom-post.php:241
+msgid "Display Product Title"
+msgstr ""
+
+#: wpcs-custom-post.php:253
+msgid "Display Product Price"
+msgstr ""
+
+#: wpcs-custom-post.php:274
+msgid "Display Product Ratings"
+msgstr ""
+
+#: wpcs-custom-post.php:298
+msgid "Display \"Add to Cart\" button"
+msgstr ""
+
+#: wpcs-custom-post.php:323
+msgid "Total Products to Display"
+msgstr ""
+
+#: wpcs-custom-post.php:327
+msgid "How many products to display in the carousel slider"
+msgstr ""
+
+#: wpcs-custom-post.php:334
+msgid "Products Type"
+msgstr ""
+
+#: wpcs-custom-post.php:338
+msgid "Latest Products"
+msgstr ""
+
+#: wpcs-custom-post.php:339
+msgid "Older Products"
+msgstr ""
+
+#: wpcs-custom-post.php:340
+msgid "Featured Products"
+msgstr ""
+
+#: wpcs-custom-post.php:342
+msgid "What type of products to display in the carousel slider"
+msgstr ""
+
+#: wpcs-custom-post.php:345
+msgid "On Sale Products"
+msgstr ""
+
+#: wpcs-custom-post.php:346
+msgid "Best Selling Products"
+msgstr ""
+
+#: wpcs-custom-post.php:347
+msgid "Top Rated Products"
+msgstr ""
+
+#: wpcs-custom-post.php:348
+msgid "Random Products"
+msgstr ""
+
+#: wpcs-custom-post.php:349
+msgid "Category Products"
+msgstr ""
+
+#: wpcs-custom-post.php:350
+msgid "Products by ID"
+msgstr ""
+
+#: wpcs-custom-post.php:351
+msgid "Products by SKU"
+msgstr ""
+
+#: wpcs-custom-post.php:352
+msgid "Products by Tags"
+msgstr ""
+
+#: wpcs-custom-post.php:353
+msgid "Products by Year"
+msgstr ""
+
+#: wpcs-custom-post.php:354
+msgid "Products by Month"
+msgstr ""
+
+#: wpcs-custom-post.php:362
+msgid "Enable Image Resizing & Cropping"
+msgstr ""
+
+#: wpcs-custom-post.php:369
+msgid ""
+"If the product images are not in the same size, this feature is "
+"helpful. It automatically resizes and crops. Note: your image must be "
+"higher than/equal to the cropping size set below. Otherwise, you may "
+"need to enable image upscaling feature from the settings below."
+msgstr ""
+
+#: wpcs-custom-post.php:376
+msgid "Image Width"
+msgstr ""
+
+#: wpcs-custom-post.php:380
+msgid "Image cropping width"
+msgstr ""
+
+#: wpcs-custom-post.php:387
+msgid "Image Height"
+msgstr ""
+
+#: wpcs-custom-post.php:393
+msgid "Image cropping height"
+msgstr ""
+
+#: wpcs-custom-post.php:409
+msgid "Auto Play"
+msgstr ""
+
+#: wpcs-custom-post.php:427
+msgid "Slider would automatically play or not"
+msgstr ""
+
+#: wpcs-custom-post.php:435
+msgid "Stop on Hover"
+msgstr ""
+
+#: wpcs-custom-post.php:442
+msgid "Stop autoplay on mouse hover or not"
+msgstr ""
+
+#: wpcs-custom-post.php:449
+msgid "Slide Speed"
+msgstr ""
+
+#: wpcs-custom-post.php:453
+msgid "1 second = 1000"
+msgstr ""
+
+#: wpcs-custom-post.php:460
+msgid "Products to display on Desktop"
+msgstr ""
+
+#: wpcs-custom-post.php:464
+msgid ""
+"Maximum number of products to display at a time with the widest "
+"browser width. eg on screen size > 1198px"
+msgstr ""
+
+#: wpcs-custom-post.php:470
+msgid "Products to display on Laptop"
+msgstr ""
+
+#: wpcs-custom-post.php:474
+msgid ""
+"Maximum number of products to display at a time on a laptop screen. "
+"Eg. Screen size > 978 px."
+msgstr ""
+
+#: wpcs-custom-post.php:481
+msgid "Products to Display on Tablet"
+msgstr ""
+
+#: wpcs-custom-post.php:485
+msgid ""
+"Maximum number of products to display at a time on Tablet devices. Eg. "
+"screen size > 768px"
+msgstr ""
+
+#: wpcs-custom-post.php:491
+msgid "Products to Display on Mobile"
+msgstr ""
+
+#: wpcs-custom-post.php:495
+msgid ""
+"Maximum number of products to display at a time on Mobile. eg. screen "
+"size from 0px - 480px"
+msgstr ""
+
+#: wpcs-custom-post.php:502
+msgid "Pagination"
+msgstr ""
+
+#: wpcs-custom-post.php:509
+msgid "Show pagination or not"
+msgstr ""
+
+#: wpcs-custom-post.php:526
+msgid "Carousel Title Font Size"
+msgstr ""
+
+#: wpcs-custom-post.php:536
+msgid "Carousel Title Font Color"
+msgstr ""
+
+#: wpcs-custom-post.php:546
+msgid "Navigational Arrow Color"
+msgstr ""
+
+#: wpcs-custom-post.php:556
+msgid "Navigational Arrow Background Color"
+msgstr ""
+
+#: wpcs-custom-post.php:566
+msgid "Navigational Arrow Hover Color"
+msgstr ""
+
+#: wpcs-custom-post.php:576
+msgid "Navigational Arrow Background Hover Color"
+msgstr ""
+
+#: wpcs-custom-post.php:589
+msgid "Product Title Font Size"
+msgstr ""
+
+#: wpcs-custom-post.php:599
+msgid "Product Title Font Color"
+msgstr ""
+
+#: wpcs-custom-post.php:609
+msgid "Product Title Hover Font Color"
+msgstr ""
+
+#: wpcs-custom-post.php:622
+msgid "Product Price Font Size"
+msgstr ""
+
+#: wpcs-custom-post.php:632
+msgid "Product Price Font Color"
+msgstr ""
+
+#: wpcs-custom-post.php:645
+msgid "Product Ratings Color"
+msgstr ""
+
+#: wpcs-custom-post.php:657
+msgid "Product Ratings Size"
+msgstr ""
+
+#: wpcs-custom-post.php:670
+msgid "\"Add to Cart\" Button Font Size"
+msgstr ""
+
+#: wpcs-custom-post.php:680
+msgid "\"Add to Cart\" Font Color"
+msgstr ""
+
+#: wpcs-custom-post.php:690
+msgid "\"Add to Cart\" Button Background Color"
+msgstr ""
+
+#: wpcs-custom-post.php:700
+msgid "\"Add to Cart\" Button Hover Background Color"
+msgstr ""
+
+#: wpcs-custom-post.php:710
+msgid "\"Add to Cart\" Hover Font Color"
+msgstr ""
+
+#: wpcs-custom-post.php:726
+msgid "Shortcode"
+msgstr ""
+
+#: wpcs-custom-post.php:727
+msgid "Use following shortcode to display the Carousel Slider anywhere:"
+msgstr ""
+
+#: wpcs-custom-post.php:730
+msgid "If you need to put the shortcode in code/theme file, use this:"
+msgstr ""
+
+#: wpcs-main.php:117
+msgid ""
+"WooCommerce plugin is not activated. Please install and activate it to "
+"use"
+msgstr ""
+
+#: wpcs-main.php:117
+msgid "WooCommerce Product Carousel Slider Plugin"
+msgstr ""
+
+#: wpcs-main.php:140
+msgid "Support"
+msgstr ""
+
+#: wpcs-main.php:140
+msgid "Usage & Support"
+msgstr ""
+
+#: wpcs-shortcodes.php:266
+msgid "No products found"
+msgstr ""

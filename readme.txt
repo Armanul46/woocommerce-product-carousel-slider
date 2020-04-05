@@ -2,7 +2,7 @@
 Contributors: AazzTech
 Tags: woocommerce carousel, woocommerce slider, woocommerce product slider, woocommerce product carousel, woocommerce
 Requires at least: 4.0
-Tested up to: 5.2
+Tested up to: 5.4
 Stable tag: 3.3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -88,6 +88,7 @@ After successfully installing and activating the plugin, you will find "Woo Caro
 == Changelog ==
 = 3.3.3 =
 * Fixed image cropping issue
+* Fixed language issue
 = 3.3.2 =
 * Fixed column issue for Desktop, Laptop, Tablet & Mobile
 = 3.3.1 =
