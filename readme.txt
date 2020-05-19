@@ -13,8 +13,6 @@ It allows you to easily create responsive WooCommerce product carousel/slider th
 
 Live demo: <https://aazztech.com/demos/plugins/woocommerce-product-carousel-slider>
 
-**We released a new WooCommerce product carousel/slider with grid plugin [Woocommerce Product Carousel, Slider & Grid Ultimate](https://wordpress.org/plugins/woo-product-carousel-slider-and-grid-ultimate/) recently with a lot more features than WooCommerce Product Carousel Slider. We do recommend [Woocommerce Product Carousel, Slider & Grid Ultimate](https://wordpress.org/plugins/woo-product-carousel-slider-and-grid-ultimate/) over WooCommerce Product Carousel Slider.**
-
 WooCommerce Product Carousel Slider displays products of your shop anywhere you like easily in an elegant and professional way using carousel slider that would make customers interested and increase sales. It comes with lots of features including advanced Shortcode Generator. Its a must have plugin for WooCommerce shop!
 
 All of your products with this plugin will display perfectly fine on any devices. It is also touch devices friendly. So, your customers from any devices can view your products nicely. Thus, more chances for more sale.
