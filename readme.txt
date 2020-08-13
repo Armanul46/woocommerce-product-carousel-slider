@@ -2,8 +2,8 @@
 Contributors: AazzTech
 Tags: woocommerce carousel, woocommerce slider, woocommerce product slider, woocommerce product carousel, woocommerce
 Requires at least: 4.0
-Tested up to: 5.4
-Stable tag: 3.3.3
+Tested up to: 5.5
+Stable tag: 3.3.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ It allows you to easily create responsive WooCommerce product carousel/slider th
 
 == Description ==
 
-Live demo: <https://aazztech.com/demos/plugins/woocommerce-product-carousel-slider>
+Live demo: <https://demo.aazztech.com/plugin/woocommerce-product-carousel-slider/>
 
 WooCommerce Product Carousel Slider displays products of your shop anywhere you like easily in an elegant and professional way using carousel slider that would make customers interested and increase sales. It comes with lots of features including advanced Shortcode Generator. Its a must have plugin for WooCommerce shop!
 
@@ -65,7 +65,7 @@ More amazing features available in [__Pro version__](https://aazztech.com/produc
 *   Specify the scrolling direction
 *   And many more…
 
-Live demo: <https://aazztech.com/demos/plugins/woocommerce-product-carousel-slider/#proversion>
+Live demo: <https://demo.aazztech.com/plugin/woocommerce-product-carousel-slider/#proversion>
 
 
 == Installation ==
@@ -84,6 +84,9 @@ After successfully installing and activating the plugin, you will find "Woo Caro
 4. frontend
 
 == Changelog ==
+= 3.3.4 =
+* Add: WordPress 5.5 compatibility
+* Add: WooCommerce 4.3 compatibility
 = 3.3.3 =
 * Fixed image cropping issue
 * Fixed language issue
@@ -111,7 +114,7 @@ After successfully installing and activating the plugin, you will find "Woo Caro
 * Made WooCommerce 3.0.0 compatible
 = 2.0 =
 * Added features of displaying Product Star Ratings and options of changing its color and size.
-* Added Product Title, Pirce, Star Ratings and Cart button display/hide options.
+* Added Product Title, Price, Star Ratings and Cart button display/hide options.
 = 1.9 =
 * Fixed a bug
 = 1.8 =
