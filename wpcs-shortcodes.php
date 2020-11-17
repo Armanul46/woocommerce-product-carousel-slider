@@ -107,12 +107,12 @@ class WPCS_Shortcode {
         else {
             $args = $common_args;
         }
-
-
-        $loop = new WP_Query( $args );
-    if ( $loop->have_posts() ): ?>
+        ?>
         <div class="wpcs_product_carousel_slider">
-
+        <?php 
+        $loop = new WP_Query( $args );
+        if ( $loop->have_posts() ): ?>
+        
             <style type="text/css">
 
                 .wpcs_product_carousel_slider .another_carousel_header i.prev-<?php echo $rand_ID; ?>,
