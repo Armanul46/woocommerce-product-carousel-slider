@@ -2,8 +2,8 @@
 Contributors: AazzTech
 Tags: woocommerce carousel, woocommerce slider, woocommerce product slider, woocommerce product carousel, woocommerce
 Requires at least: 4.0
-Tested up to: 5.5
-Stable tag: 3.3.4
+Tested up to: 5.6
+Stable tag: 3.3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,7 +45,7 @@ All of your products with this plugin will display perfectly fine on any devices
 *   Translation ready.
 *   Many more…
 
-More amazing features available in [__Pro version__](https://aazztech.com/product/woocommerce-product-carousel-slider-pro/).
+More amazing features available in [__Pro version__](https://wpwax.com/product/woocommerce-product-carousel-slider-pro/).
 
 = Features of the Pro version =
 *   On sale, best selling, top rated and featured products display.
@@ -84,6 +84,9 @@ After successfully installing and activating the plugin, you will find "Woo Caro
 4. frontend
 
 == Changelog ==
+= 3.3.5 =
+* Add: WordPress 5.6 compatibility
+* Add: WooCommerce 4.8 compatibility
 = 3.3.4 =
 * Add: WordPress 5.5 compatibility
 * Add: WooCommerce 4.3 compatibility

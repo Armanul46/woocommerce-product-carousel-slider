@@ -1,17 +1,17 @@
 <?php
 /*
 Plugin Name: WooCommerce Product Carousel Slider
-Plugin URI:  https://aazztech.com/product/woocommerce-product-carousel-slider-pro
+Plugin URI:  https://wpwax.com/product/woocommerce-product-carousel-slider-pro
 Description: This plugin allows you to easily create WooCommerce product carousel slider. It is fully responsive and mobile friendly carousel slider which comes with lots of features.
-Version:     3.3.4
-Author:      AazzTech
-Author URI:  https://aazztech.com
+Version:     3.3.5
+Author:      wpWax
+Author URI:  https://wpwax.com
 License:     GPL2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Domain Path: /languages/
 Text Domain: woocommerce-product-carousel-slider
 WC requires at least: 3.0
-WC tested up to: 4.3
+WC tested up to: 4.8
 */
 
 /**
